@@ -32,6 +32,7 @@
               <p>Copy Rights 2024 All Rights Reserved</p>
           </div>
       </div>
+      <h1 style="font-size:15px;margin-top:3rem;margin-bottom:3rem;font-weight:600;">Made with ❤️ by Tarek Ait Ahmed</h1>
     </footer>
   </template>
   
