@@ -51,6 +51,7 @@ export default {
 
 .blog-card{
     position: relative;
+    max-height: 400px;
     cursor: pointer;
     display: flex;
     flex-direction: column;
